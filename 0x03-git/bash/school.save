@@ -1,0 +1,6 @@
+e#!/bin/bash
+<<<<<<< HEAD
+echo "The School is open"
+=======
+echo "The Schoolis open"
+>>>>>>> update_script
